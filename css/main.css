@@ -2802,11 +2802,11 @@ span.glyph.information-icon i {
   height: 70vh;
   background-image:url("../images/bekir-donmez-eofm5R5f9Kw-unsplash.jpg");
   background-attachment: scroll, scroll;
-  background-position: left top, center center, right top;
+  background-position: left top, center center;
   background-clip: border-box, border-box;
   background-origin: padding-box, padding-box;
   background-size: auto auto, cover;
-  background-repeat: no-repeat, no-repeat;
+  background-repeat: no-repeat, no-repeat, no-repeat;
 
   background-blend-mode: normal, normal;
   -webkit-box-pack: center;
